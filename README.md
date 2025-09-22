@@ -1,4 +1,5 @@
 # apana-collegeDemo
+
 this is my first git repository.
 <br>
-Author - Om Deshmukh
+Author - Om (Apana College)
